@@ -35,7 +35,7 @@ Once you're up and running, you'll arrive at the configuration wizard page. If y
 - Password: MYSQL_ROOT_PASSWORD
 - Database Name: matomo (or you can choose)
 
-And leave the rest as default .
+And leave the rest as default.
 
 Then you can continue the installation with the super user.
 
